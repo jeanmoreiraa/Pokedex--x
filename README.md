@@ -68,3 +68,5 @@ Imagens: Sprites animados da geração V (Black-White)
 Favicon: para criar a imagen use este site https://www.websiteplanet.com/pt-br/webtools/favicon-generator/
 
 Este projeto é uma ótima maneira de aprender sobre integração de APIs, manipulação do DOM e estilização CSS para criar interfaces interativas.
+
+OBS: O site https://nekocalc.com/px-to-rem-converter é uma ferramenta online que permite converter medidas de pixels (px) para rem, uma unidade de medida relativa usada em CSS e design web.
