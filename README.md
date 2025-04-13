@@ -36,7 +36,6 @@ Estilize o campo de busca com sombras para efeito 3D
 Configure os botões de navegação com efeitos de clique
 
 
-
 Passo 3: Implementar a Funcionalidade com JavaScript
 O JavaScript gerencia a interação e busca de dados:
 
@@ -55,11 +54,9 @@ Configure os event listeners:
 Para o formulário de busca (quando o usuário pesquisa)
 Para os botões de navegação (anterior diminui o ID, próximo aumenta)
 
-
 Carregue o primeiro Pokémon quando a página iniciar
 
 Recursos Utilizados
-
 HTML5: Estrutura básica da aplicação
 CSS3: Estilização visual com efeitos de sombra e posicionamento
 JavaScript: Manipulação do DOM e requisições assíncronas
@@ -68,5 +65,4 @@ Imagens: Sprites animados da geração V (Black-White)
 Favicon: para criar a imagen use este site https://www.websiteplanet.com/pt-br/webtools/favicon-generator/
 
 Este projeto é uma ótima maneira de aprender sobre integração de APIs, manipulação do DOM e estilização CSS para criar interfaces interativas.
-
 OBS: O site https://nekocalc.com/px-to-rem-converter é uma ferramenta online que permite converter medidas de pixels (px) para rem, uma unidade de medida relativa usada em CSS e design web.
